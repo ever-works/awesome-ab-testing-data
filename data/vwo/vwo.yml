@@ -1,0 +1,12 @@
+name: "VWO"
+description: "Conversion optimization platform offering A/B testing, split URL testing, and multivariate testing for websites. It includes a visual editor, heatmaps, and session recording for marketing and product teams. Plans start with a free trial followed by paid subscriptions."
+source_url: "https://vwo.com/"
+category: "Website A/B Testing"
+tags:
+  - "paid"
+  - "api"
+  - "a-b-testing"
+  - "conversion-rate-optimization"
+icon_url: "https://icons.duckduckgo.com/ip3/vwo.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://vwo.com/>\n"
+updated_at: "2026-11-21 02:06"

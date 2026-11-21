@@ -1,0 +1,13 @@
+name: "Omniconvert"
+description: "Conversion rate optimization platform with A/B testing, web personalization, and surveys for e-commerce. It includes a visual editor and advanced segmentation for website experimentation. Paid plans include a free trial."
+source_url: "https://www.omniconvert.com/"
+category: "Website A/B Testing"
+tags:
+  - "paid"
+  - "api"
+  - "a-b-testing"
+  - "e-commerce"
+  - "cro"
+icon_url: "https://icons.duckduckgo.com/ip3/www.omniconvert.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.omniconvert.com/>\n"
+updated_at: "2026-11-21 02:06"

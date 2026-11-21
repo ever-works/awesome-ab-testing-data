@@ -1,0 +1,13 @@
+name: "Split.io"
+description: "Feature delivery and experimentation platform for engineering teams. It provides feature flags, targeting rules, and A/B testing with observability and integrations to CI/CD tools. A free tier is available; paid plans scale by usage."
+source_url: "https://www.split.io/"
+category: "Feature-Flag Experiments"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "feature-flags"
+  - "ci-cd"
+icon_url: "https://icons.duckduckgo.com/ip3/www.split.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.split.io/>\n"
+updated_at: "2026-11-21 02:06"

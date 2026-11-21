@@ -1,0 +1,13 @@
+name: "Optimizely"
+description: "Enterprise experimentation platform for A/B testing, feature flags, and personalization across web, mobile, and connected devices. It offers statistical analysis, targeting, and program management for large marketing and product teams. Pricing is quote-based and enterprise-focused."
+source_url: "https://www.optimizely.com/"
+category: "Experimentation Platforms"
+tags:
+  - "enterprise"
+  - "paid"
+  - "api"
+  - "a-b-testing"
+  - "personalization"
+icon_url: "https://icons.duckduckgo.com/ip3/www.optimizely.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.optimizely.com/>\n"
+updated_at: "2026-11-21 02:06"

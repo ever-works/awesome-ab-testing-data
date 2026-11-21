@@ -1,0 +1,13 @@
+name: "Statsig"
+description: "Feature management and experimentation platform for product teams to roll out features and run A/B tests. It offers feature gates, dynamic configs, and metrics monitoring with integrations to data warehouses. A free tier is available; usage-based paid plans follow."
+source_url: "https://www.statsig.com/"
+category: "Feature-Flag Experiments"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "feature-flags"
+  - "warehouse-native"
+icon_url: "https://icons.duckduckgo.com/ip3/www.statsig.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.statsig.com/>\n"
+updated_at: "2026-11-21 02:06"

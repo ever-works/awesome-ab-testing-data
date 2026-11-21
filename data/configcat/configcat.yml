@@ -1,0 +1,13 @@
+name: "ConfigCat"
+description: "Feature flag service with simple targeting and A/B testing for software teams. It offers a forever-free plan and feature flag SDKs with a focus on ease of use. Paid plans scale by feature flags and environments."
+source_url: "https://configcat.com/"
+category: "Feature-Flag Experiments"
+tags:
+  - "freemium"
+  - "paid"
+  - "free-plan"
+  - "api"
+  - "feature-flags"
+icon_url: "https://icons.duckduckgo.com/ip3/configcat.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://configcat.com/>\n"
+updated_at: "2026-11-21 02:06"

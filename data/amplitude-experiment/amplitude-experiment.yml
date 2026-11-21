@@ -1,0 +1,13 @@
+name: "Amplitude Experiment"
+description: "Experimentation layer within Amplitude's digital analytics platform for product-led teams. It allows A/B testing and feature rollouts using existing Amplitude event data and user segments. Pricing is part of Amplitude's paid plans with a free starter tier."
+source_url: "https://amplitude.com/"
+category: "Experimentation Platforms"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "product-analytics"
+  - "a-b-testing"
+icon_url: "https://icons.duckduckgo.com/ip3/amplitude.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://amplitude.com/>\n"
+updated_at: "2026-11-21 02:06"

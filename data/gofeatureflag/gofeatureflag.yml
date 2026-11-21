@@ -1,0 +1,12 @@
+name: "GoFeatureFlag"
+description: "Open-source feature flag solution that can be self-hosted with minimal dependencies. It supports feature flag management and gradual rollouts for applications. Licensed under MIT and available on GitHub."
+source_url: "https://www.gofeatureflag.org/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "feature-flags"
+icon_url: "https://icons.duckduckgo.com/ip3/www.gofeatureflag.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.gofeatureflag.org/>\n- Repository: <https://github.com/thomaspoignant/go-feature-flag>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 02:06"

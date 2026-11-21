@@ -1,0 +1,12 @@
+name: "Evan Miller"
+description: "Statistical tools and formulas for A/B testing, including sample size and significance calculators. The site provides free, reference-grade calculations for experiment design. No account or payment is needed."
+source_url: "https://www.evanmiller.org/"
+category: "Stats & Calculators"
+tags:
+  - "free"
+  - "calculator"
+  - "statistics"
+  - "sample-size"
+icon_url: "https://icons.duckduckgo.com/ip3/www.evanmiller.org.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://www.evanmiller.org/>\n"
+updated_at: "2026-11-21 02:06"

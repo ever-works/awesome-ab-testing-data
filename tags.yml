@@ -1,0 +1,56 @@
+- id: enterprise
+  name: "Enterprise"
+- id: paid
+  name: "Paid"
+- id: api
+  name: "API"
+- id: a-b-testing
+  name: "A/B Testing"
+- id: personalization
+  name: "Personalization"
+- id: conversion-rate-optimization
+  name: "Conversion Rate Optimization"
+- id: ai-powered
+  name: "AI-Powered"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: freemium
+  name: "Freemium"
+- id: warehouse-native
+  name: "Warehouse-Native"
+- id: feature-flags
+  name: "Feature Flags"
+- id: data-warehouse
+  name: "Data Warehouse"
+- id: privacy
+  name: "Privacy"
+- id: gdpr
+  name: "GDPR"
+- id: free-plan
+  name: "Free Plan"
+- id: product-analytics
+  name: "Product Analytics"
+- id: ci-cd
+  name: "CI/CD"
+- id: lightweight
+  name: "Lightweight"
+- id: no-code
+  name: "No-Code"
+- id: adobe-experience-cloud
+  name: "Adobe Experience Cloud"
+- id: b2b
+  name: "B2B"
+- id: e-commerce
+  name: "E-commerce"
+- id: cro
+  name: "CRO"
+- id: free
+  name: "Free"
+- id: calculator
+  name: "Calculator"
+- id: statistics
+  name: "Statistics"
+- id: sample-size
+  name: "Sample Size"

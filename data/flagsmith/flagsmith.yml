@@ -1,0 +1,13 @@
+name: "Flagsmith"
+description: "Open-source feature flag and remote config service that can be self-hosted or used as a managed service. It supports feature toggles, segmentation, and A/B testing for web and mobile apps. Licensed under Apache 2.0."
+source_url: "https://flagsmith.com/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "freemium"
+  - "api"
+  - "feature-flags"
+icon_url: "https://icons.duckduckgo.com/ip3/flagsmith.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://flagsmith.com/>\n- Repository: <https://github.com/Flagsmith/flagsmith>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 02:06"

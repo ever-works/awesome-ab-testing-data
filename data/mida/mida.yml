@@ -1,0 +1,13 @@
+name: "Mida"
+description: "Lightweight A/B testing tool for websites focused on speed and simplicity. It offers a no-code visual editor and split testing with minimal performance impact. A free plan is available, with paid plans for higher traffic."
+source_url: "https://mida.so/"
+category: "Website A/B Testing"
+tags:
+  - "freemium"
+  - "paid"
+  - "free-plan"
+  - "lightweight"
+  - "no-code"
+icon_url: "https://icons.duckduckgo.com/ip3/mida.so.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://mida.so/>\n"
+updated_at: "2026-11-21 02:06"
