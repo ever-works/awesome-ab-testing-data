@@ -1,0 +1,54 @@
+name: Wingify Data Platform
+description: A unified customer data platform that stitches sessions, devices,
+  and actions into a single visitor profile. Enriches raw behavior with computed
+  metrics such as predicted lifetime value, affinity, and intent, and exports
+  segments to analytics, marketing, and sales tools. Part of the Wingify
+  ecosystem (VWO, AB Tasty).
+source_url: https://wingify.com/data-platform/
+category: Experimentation Platforms
+tags:
+  - Paid
+  - API
+  - Enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Wingify Data Platform is a customer data platform that unifies visitor
+  profiles across sessions, devices, and actions. It is part of the Wingify
+  ecosystem, which includes VWO and AB Tasty following their merger.
+
+
+  ## Features
+
+
+  - **One identity**: Sessions, devices, and actions stitched into a single
+  visitor profile
+
+  - **Data enrichment**: Add metrics like predicted lifetime value, affinity,
+  and intent computed on top of raw behavior
+
+  - **Segment export**: Segments export to analytics, marketing, and sales tools
+
+  - **Data residency**: Data centers in the US, EU, and India
+
+  - **Security certifications**: SOC 2, CCPA, HIPAA, PCI DSS, GDPR, ISO 27001,
+  ISO 27701, ISO 27017, ISO 27018, ISO 45001, ISO 14001
+
+  - **Support**: 24/7 priority support with dedicated success manager and
+  technical experts
+
+
+  ## Pricing
+
+
+  Paid enterprise platform. Contact Wingify for pricing details.
+
+
+  ## Deployment
+
+
+  Cloud-hosted with data center options in the US, EU, and India.
+brand: Wingify
+updated_at: 2026-11-27 05:00

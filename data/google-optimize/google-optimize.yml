@@ -1,0 +1,45 @@
+name: Google Optimize
+description: Google's free A/B testing and personalization tool that integrates
+  with Google Analytics. Allows running experiments on website content, layouts,
+  and experiences with visual editing and targeting capabilities. Discontinued
+  by Google in September 2023.
+source_url: https://optimize.google.com/optimize/home/
+category: Website A/B Testing
+tags:
+  - Free
+  - Discontinued
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Google Optimize was a free A/B testing and personalization tool from Google
+  that integrated with Google Analytics.
+
+
+  ## Features
+
+
+  - A/B testing and multivariate testing
+
+  - Personalization and targeting
+
+  - Visual editor for content changes
+
+  - Integration with Google Analytics
+
+  - Experiment reporting
+
+
+  ## Pricing
+
+
+  Free.
+
+
+  ## Discontinuation
+
+
+  Google Optimize was discontinued on September 30, 2023.
+brand: Google
+updated_at: 2026-11-27 05:00

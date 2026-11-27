@@ -1,0 +1,42 @@
+name: Firebase AB Testing
+description: Firebase A/B Testing is part of Google's Firebase platform,
+  enabling app developers to run experiments on Android, iOS, and web apps.
+  Integrates with Firebase Remote Config and Google Analytics for Firebase to
+  test UI, features, and engagement changes.
+source_url: https://firebase.google.com/docs/ab-testing
+category: Website A/B Testing
+tags:
+  - Free
+  - Mobile
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Firebase A/B Testing is a free experimentation service within Google's
+  Firebase mobile and web application development platform.
+
+
+  ## Features
+
+
+  - A/B testing for Android, iOS, and web apps
+
+  - Integration with Firebase Remote Config
+
+  - Integration with Google Analytics for Firebase
+
+  - Experiment goal and variant configuration
+
+  - Statistical significance reporting
+
+  - Experiment scheduling
+
+
+  ## Pricing
+
+
+  Free as part of the Firebase Spark (no-cost) plan.
+brand: Google
+updated_at: 2026-11-27 05:00
