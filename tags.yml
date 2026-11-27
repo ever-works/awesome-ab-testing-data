@@ -1,56 +1,64 @@
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: api
-  name: "API"
+  name: API
 - id: a-b-testing
-  name: "A/B Testing"
+  name: A/B Testing
 - id: personalization
-  name: "Personalization"
+  name: Personalization
 - id: conversion-rate-optimization
-  name: "Conversion Rate Optimization"
+  name: Conversion Rate Optimization
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI Powered
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self-Hosted
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: warehouse-native
-  name: "Warehouse-Native"
+  name: Warehouse-Native
 - id: feature-flags
-  name: "Feature Flags"
+  name: Feature Flags
 - id: data-warehouse
-  name: "Data Warehouse"
+  name: Data Warehouse
 - id: privacy
-  name: "Privacy"
+  name: Privacy
 - id: gdpr
-  name: "GDPR"
+  name: GDPR
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: product-analytics
-  name: "Product Analytics"
+  name: Product Analytics
 - id: ci-cd
-  name: "CI/CD"
+  name: CI/CD
 - id: lightweight
-  name: "Lightweight"
+  name: Lightweight
 - id: no-code
-  name: "No-Code"
+  name: No-Code
 - id: adobe-experience-cloud
-  name: "Adobe Experience Cloud"
+  name: Adobe Experience Cloud
 - id: b2b
-  name: "B2B"
+  name: B2B
 - id: e-commerce
-  name: "E-commerce"
+  name: E-commerce
 - id: cro
-  name: "CRO"
+  name: CRO
 - id: free
-  name: "Free"
+  name: Free
 - id: calculator
-  name: "Calculator"
+  name: Calculator
 - id: statistics
-  name: "Statistics"
+  name: Statistics
 - id: sample-size
-  name: "Sample Size"
+  name: Sample Size
+- id: mobile
+  name: Mobile
+- id: cloud
+  name: Cloud
+- id: discontinued
+  name: Discontinued
+- id: korean
+  name: Korean

@@ -1,8 +1,77 @@
-- url: "https://raw.githubusercontent.com/dojinkimm/awesome-ab-testing/HEAD/README.md"
-  title: "GitHub list — dojinkimm/awesome-ab-testing (40★, stale)"
-- url: "https://raw.githubusercontent.com/DavisTrey/ExperimentationResources/HEAD/README.md"
-  title: "GitHub list — DavisTrey/ExperimentationResources (168★, stale)"
-- url: "https://github.com/topics/ab-testing"
-  title: "GitHub topic — `ab-testing` (3,242 repos)"
-- url: "https://github.com/topics/experimentation"
-  title: "GitHub topic — `experimentation` (1,252 repos)"
+- url: https://github.com/topics/ab-testing
+  title: GitHub topic — `ab-testing` (3,242 repos)
+  normalized_url: https://github.com/topics/ab-testing
+- url: https://github.com/topics/experimentation
+  title: GitHub topic — `experimentation` (1,252 repos)
+  normalized_url: https://github.com/topics/experimentation
+- url: https://growthbook.io
+  normalized_url: https://growthbook.io/
+  first_seen_at: 2026-11-27T04:56:55.598Z
+  last_attempted_at: 2026-11-27T04:56:55.598Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://growthbook.io"
+- url: https://raw.githubusercontent.com/DavisTrey/ExperimentationResources/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/DavisTrey/ExperimentationResources/HEAD/README.md
+  first_seen_at: 2026-11-27T04:52:44.431Z
+  last_attempted_at: 2026-11-27T04:52:44.431Z
+  last_success_at: 2026-11-27T04:52:44.431Z
+  status: success
+  items_created: 2
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/dojinkimm/awesome-ab-testing/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/dojinkimm/awesome-ab-testing/HEAD/README.md
+  first_seen_at: 2026-11-27T04:51:48.720Z
+  last_attempted_at: 2026-11-27T04:51:48.720Z
+  last_success_at: 2026-11-27T04:51:48.720Z
+  status: success
+  items_created: 3
+  pipeline: agent-pipeline
+- url: https://vwo.com
+  normalized_url: https://vwo.com/
+  first_seen_at: 2026-11-27T04:54:02.215Z
+  last_attempted_at: 2026-11-27T04:54:02.215Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://vwo.com"
+- url: https://www.abtasty.com
+  normalized_url: https://www.abtasty.com/
+  first_seen_at: 2026-11-27T04:56:38.404Z
+  last_attempted_at: 2026-11-27T04:56:38.404Z
+  last_success_at: 2026-11-27T04:56:38.404Z
+  status: success
+  items_created: 2
+  pipeline: agent-pipeline
+- url: https://www.optimizely.com/developers/experimentation
+  normalized_url: https://www.optimizely.com/developers/experimentation
+  first_seen_at: 2026-11-27T04:53:11.966Z
+  last_attempted_at: 2026-11-27T04:53:11.966Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.optimizely.com/developers/experimentation"
+- url: https://www.optimizely.com/platform/experimentation
+  normalized_url: https://www.optimizely.com/platform/experimentation
+  first_seen_at: 2026-11-27T04:53:31.788Z
+  last_attempted_at: 2026-11-27T04:53:31.788Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.optimizely.com/platform/experimentation"
+- url: https://www.statsig.com
+  normalized_url: https://www.statsig.com/
+  first_seen_at: 2026-11-27T04:57:18.084Z
+  last_attempted_at: 2026-11-27T04:57:18.084Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.statsig.com"
